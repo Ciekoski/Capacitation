@@ -4,27 +4,22 @@ body {
 	text-align: center;
 }
 
-.container {
+.Galeria {
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.fotos {
+	display: flex;
 	justify-content: space-around;
+	flex-wrap: wrap;
+	padding-top: 5px;
+
 }
 
-.container-items li {
-	width: auto;
+.fotos img {
+	border: 1px solid black;
 	height: auto;
-}
-
-.container-items img {
-	max-width: 10%;
-	border: 1px solid black;
-}
-
-ul {
-	list-style-type: none;
-}
-
-p {
-	border: 1px solid black;
-	background-color: #E6E6FA;
+	padding-bottom: 5px;
+	padding-top: 20px;
 }
