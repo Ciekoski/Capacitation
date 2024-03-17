@@ -1,0 +1,30 @@
+body {
+	background-color: #FFF;
+	font-family: Arial;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.container-items li {
+	width: auto;
+	height: auto;
+}
+
+.container-items img {
+	max-width: 10%;
+	border: 1px solid black;
+}
+
+ul {
+	list-style-type: none;
+}
+
+p {
+	border: 1px solid black;
+	background-color: #E6E6FA;
+}
