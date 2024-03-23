@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+	<html lang="pt_br">
+	
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>LOJA DO ALOJA</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>
+		<h1 id="titulo-pagina"> LOJA DO ALOJA </h1>
+		
+		<div class="produtos">
+			
+		<div class="item1">
+			<img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMHzhQ3e3qHvP_eQ8dirqYOaWxrx5I3pjJwHevypBOO9EACnDo4hXHJdPvqiHztpK1Y85aQj9-AYsKL2bgS5qxTl4-mkmZOyLHBdnUPvq38_B5wjbo_BkL&usqp=CAE">
+			<p>CADEIRA</p>
+			<p class="preço">R$60,00</p>
+			<a href="fuga.html">COMPRAR</a>
+		</div>
+		
+		<div class="item2">
+			<img src="https://www.shopjm.com.br/media/tmp/webp/catalog/product/cache/1/image/530x/9df78eab33525d08d6e5fb8d27136e95/t/r/treliche-diamante-nemargi-new-com-tres-lugares-escada-protecao-cor-imbuia_1.webp">
+			<p>TRELICHE</p>
+			<p class="preço">R$950,00</p>
+			<a href="fuga.html">COMPRAR</a>
+		</div>
+		
+		<div class="item3">
+			<img src="https://www.multimixmoveis.com/assets/img/produtos/produto-414-mesa-reuniao-escritorio-8-lugares-tampo-oval-2000-x-900-romanzza-plus-25-mm-265970.jpg">
+			<p>MESA GRANDE</p>
+			<p class="preço">R$480,00</p>
+			<a href="fuga.html">COMPRAR</a>
+		</div>
+		
+		<div class="item4">
+			<img src="https://m.media-amazon.com/images/I/81e0BpZekHL._AC_UF894,1000_QL80_.jpg">
+			<p>VENTILADOR DE MESA</p>
+			<p class="preço">R$200,00</p>
+			<a href="fuga.html">COMPRAR</a>
+		</div>
+		
+		</div>
+		
+	</body>
+	
+	<footer><p id="cabecalho"> <b>LOJA DO ALOJA &copy 2024.</b></p></footer>
+	
+	</html>
